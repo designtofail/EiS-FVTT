@@ -32,7 +32,7 @@
           7
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Animalistic Legs</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Animalistic Legs</a></b>"
     },
     {
       "range": {
@@ -54,7 +54,7 @@
           9
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Acid Blood</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Acid Blood</a></b>"
     },
     {
       "range": {
@@ -74,7 +74,7 @@
           12
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Beaked Face</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Beaked Face</a></b>"
     },
     {
       "range": {
@@ -98,7 +98,7 @@
           13
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Beast Head</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Beast Head</a></b>"
     },
     {
       "range": {
@@ -121,7 +121,7 @@
           15
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Beweaponed Extremities</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Beweaponed Extremities</a></b>"
     },
     {
       "range": {
@@ -144,7 +144,7 @@
           15
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Big Ears</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Big Ears</a></b>"
     },
     {
       "range": {
@@ -162,7 +162,7 @@
           19
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Bird's Feet</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Bird's Feet</a></b>"
     },
     {
       "range": {
@@ -179,7 +179,7 @@
           21
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Blank Face</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Blank Face</a></b>"
     },
     {
       "range": {
@@ -201,7 +201,7 @@
           22
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Breathe Fire</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Breathe Fire</a></b>"
     },
     {
       "range": {
@@ -221,7 +221,7 @@
           23
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Bulging Eyes</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Bulging Eyes</a></b>"
     },
     {
       "range": {
@@ -238,7 +238,7 @@
           24
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Burning Skin</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Burning Skin</a></b>"
     },
     {
       "range": {
@@ -263,7 +263,7 @@
           26
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Carapace</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Carapace</a></b>"
     },
     {
       "range": {
@@ -288,7 +288,7 @@
           28
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Claws</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Claws</a></b>"
     },
     {
       "range": {
@@ -303,7 +303,7 @@
         "Slaanesh": [],
         "Tzeentch": []
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Cloud of Flies</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Cloud of Flies</a></b>"
     },
     {
       "range": {
@@ -321,7 +321,7 @@
         ],
         "Tzeentch": []
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Corpulent</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Corpulent</a></b>"
     },
     {
       "range": {
@@ -345,7 +345,7 @@
           30
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Crested Head</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Crested Head</a></b>"
     },
     {
       "range": {
@@ -369,7 +369,7 @@
           32
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Deafening Cry</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Deafening Cry</a></b>"
     },
     {
       "range": {
@@ -389,7 +389,7 @@
           34
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Distended Digits</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Distended Digits</a></b>"
     },
     {
       "range": {
@@ -411,7 +411,7 @@
           36
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Elastic Arms</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Elastic Arms</a></b>"
     },
     {
       "range": {
@@ -433,7 +433,7 @@
           37
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Emaciated</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Emaciated</a></b>"
     },
     {
       "range": {
@@ -454,7 +454,7 @@
           39
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Evil Eye</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Evil Eye</a></b>"
     },
     {
       "range": {
@@ -474,7 +474,7 @@
           41
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Extra Leg Joints</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Extra Leg Joints</a></b>"
     },
     {
       "range": {
@@ -497,7 +497,7 @@
           44
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Extra Mouth</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Extra Mouth</a></b>"
     },
     {
       "range": {
@@ -517,7 +517,7 @@
           45
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Eyestalks</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Eyestalks</a></b>"
     },
     {
       "range": {
@@ -538,7 +538,7 @@
           47
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Fleshy Tentacle</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Fleshy Tentacle</a></b>"
     },
     {
       "range": {
@@ -556,7 +556,7 @@
           48
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Foul Odour</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Foul Odour</a></b>"
     },
     {
       "range": {
@@ -577,7 +577,7 @@
           49
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Furred Skin</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Furred Skin</a></b>"
     },
     {
       "range": {
@@ -598,7 +598,7 @@
           50
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Gills</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Gills</a></b>"
     },
     {
       "range": {
@@ -618,7 +618,7 @@
           50
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Glowing Skin</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Glowing Skin</a></b>"
     },
     {
       "range": {
@@ -638,7 +638,7 @@
           53
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Headless</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Headless</a></b>"
     },
     {
       "range": {
@@ -660,7 +660,7 @@
           54
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Hopper</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Hopper</a></b>"
     },
     {
       "range": {
@@ -677,7 +677,7 @@
           55
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Inhuman Beauty</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Inhuman Beauty</a></b>"
     },
     {
       "range": {
@@ -698,7 +698,7 @@
           56
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Iron Skin</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Iron Skin</a></b>"
     },
     {
       "range": {
@@ -718,7 +718,7 @@
         ],
         "Tzeentch": []
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Lolling Tongue</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Lolling Tongue</a></b>"
     },
     {
       "range": {
@@ -739,7 +739,7 @@
           58
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Long Arms</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Long Arms</a></b>"
     },
     {
       "range": {
@@ -759,7 +759,7 @@
           60
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Long Legs</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Long Legs</a></b>"
     },
     {
       "range": {
@@ -777,7 +777,7 @@
           62
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Long Neck</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Long Neck</a></b>"
     },
     {
       "range": {
@@ -801,7 +801,7 @@
           66
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Multiple Arms</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Multiple Arms</a></b>"
     },
     {
       "range": {
@@ -826,7 +826,7 @@
           66
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Multiple Legs</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Multiple Legs</a></b>"
     },
     {
       "range": {
@@ -848,7 +848,7 @@
           67
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>One Eye</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>One Eye</a></b>"
     },
     {
       "range": {
@@ -866,7 +866,7 @@
           70
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Patchy Feathers</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Patchy Feathers</a></b>"
     },
     {
       "range": {
@@ -886,7 +886,7 @@
         ],
         "Tzeentch": []
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Pin Head</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Pin Head</a></b>"
     },
     {
       "range": {
@@ -905,7 +905,7 @@
         ],
         "Tzeentch": []
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Pointed Head</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Pointed Head</a></b>"
     },
     {
       "range": {
@@ -925,7 +925,7 @@
           73
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Rearranged Face</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Rearranged Face</a></b>"
     },
     {
       "range": {
@@ -940,7 +940,7 @@
         "Slaanesh": [],
         "Tzeentch": []
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Rotting Flesh</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Rotting Flesh</a></b>"
     },
     {
       "range": {
@@ -961,7 +961,7 @@
           76
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Shifting Colours</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Shifting Colours</a></b>"
     },
     {
       "range": {
@@ -982,7 +982,7 @@
           77
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Short Legs</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Short Legs</a></b>"
     },
     {
       "range": {
@@ -998,7 +998,7 @@
         "Slaanesh": [],
         "Tzeentch": []
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Skull Face</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Skull Face</a></b>"
     },
     {
       "range": {
@@ -1016,7 +1016,7 @@
         ],
         "Tzeentch": []
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Spiked Skin</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Spiked Skin</a></b>"
     },
     {
       "range": {
@@ -1040,7 +1040,7 @@
           79
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Suckered Hands and Feet</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Suckered Hands and Feet</a></b>"
     },
     {
       "range": {
@@ -1065,7 +1065,7 @@
           82
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Tail</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Tail</a></b>"
     },
     {
       "range": {
@@ -1085,7 +1085,7 @@
           83
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Thorny Scales</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Thorny Scales</a></b>"
     },
     {
       "range": {
@@ -1108,7 +1108,7 @@
           84
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Three Eyes</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Three Eyes</a></b>"
     },
     {
       "range": {
@@ -1127,7 +1127,7 @@
           85
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Transparent Skin</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Transparent Skin</a></b>"
     },
     {
       "range": {
@@ -1151,7 +1151,7 @@
           87
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Two Heads</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Two Heads</a></b>"
     },
     {
       "range": {
@@ -1171,7 +1171,7 @@
           88
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Uneven Horns</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Uneven Horns</a></b>"
     },
     {
       "range": {
@@ -1196,7 +1196,7 @@
           91
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Unusual Skin</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Unusual Skin</a></b>"
     },
     {
       "range": {
@@ -1217,7 +1217,7 @@
           95
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Warp Frenzy</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Warp Frenzy</a></b>"
     },
     {
       "range": {
@@ -1239,7 +1239,7 @@
           98
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Webbed Feet</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Webbed Feet</a></b>"
     },
     {
       "range": {
@@ -1256,7 +1256,7 @@
         "Slaanesh": [],
         "Tzeentch": []
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Weeping Pus</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Weeping Pus</a></b>"
     },
     {
       "range": {
@@ -1272,7 +1272,7 @@
           97
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Whiskered Snout</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Whiskered Snout</a></b>"
     },
     {
       "range": {
@@ -1292,7 +1292,7 @@
           100
         ]
       },
-      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='world.expandedmutations'>Wings</a></b>"
+      "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Wings</a></b>"
     }
   ]
 }

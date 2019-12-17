@@ -1,6 +1,6 @@
 {
   "name": "Beast Head",
-  "die" : "1d100"
+  "die" : "1d100",
   "columns": ["Undivided", "Khorne", "Nurgle", "Slaanesh", "Tzeentch"],
   "rows": [
     {

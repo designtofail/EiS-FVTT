@@ -4,15 +4,25 @@
   "description": "Enemy in Shadows",
   "version": 0.1,
   "author": "",
-  "systems": [],
+  "systems": [ "wfrp4e" ],
   "scripts": [
     "./script.js"
   ],
   "styles": [
     "./styles.css"
   ],
-  "packs": [],
-  "languages": ["en"],
+  "packs": [
+    {
+      "name": "expandedmutations",
+      "label": "Expanded Mutations",
+      "path": "packs/expandedmutations.db",
+      "entity": "Item",
+      "module": "eis",
+      "package": "eis"
+    }
+  ],
+  "languages": [ "en" ],
+  "minimumCoreVersion": "0.4.2",
   "manifest": "https://raw.githubusercontent.com/moo-man/EiS-FVTT/master/system.json",
   "download": "https://github.com/moo-man/EiS/archive/master.zip"
 }
