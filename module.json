@@ -1,0 +1,18 @@
+{
+  "name": "eis",
+  "title": "Enemy in Shadows",
+  "description": "Enemy in Shadows",
+  "version": 0.1,
+  "author": "",
+  "systems": [],
+  "scripts": [
+    "./script.js"
+  ],
+  "styles": [
+    "./styles.css"
+  ],
+  "packs": [],
+  "languages": ["en"],
+  "manifest": "https://raw.githubusercontent.com/moo-man/EiS-FVTT/master/system.json",
+  "download": "https://github.com/moo-man/EiS/archive/master.zip"
+}
