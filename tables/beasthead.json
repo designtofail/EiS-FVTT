@@ -11,7 +11,7 @@
         "Slaanesh" : [1, 5],
         "Tzeentch" : [1 ,10]
       },
-      "beast": "<a class = 'item-lookup' data-name='Bear Head' data-type = 'mutation' data-location='ITEM-LOCATION'><b>Bear Head</b></a>"
+      "beast": "<a class = 'item-lookup' data-name='Bear Head' data-type = 'mutation' data-location='eis.expandedmutations'><b>Bear Head</b></a>"
     },
     {
       "range":{
@@ -21,7 +21,7 @@
         "Slaanesh" : [6, 10],
         "Tzeentch" : [11 ,20]
       },
-      "beast": "<a class = 'item-lookup' data-name='Boar Head' data-type = 'mutation' data-location='ITEM-LOCATION'><b>Boar Head</b></a>"
+      "beast": "<a class = 'item-lookup' data-name='Boar Head' data-type = 'mutation' data-location='eis.expandedmutations'><b>Boar Head</b></a>"
     },
     {
       "range":{
@@ -31,7 +31,7 @@
         "Slaanesh" : [11, 55],
         "Tzeentch" : [21 ,30]
       },
-      "beast": "<a class = 'item-lookup' data-name='Bull Head' data-type = 'mutation' data-location='ITEM-LOCATION'><b>Bull Head</b></a>"
+      "beast": "<a class = 'item-lookup' data-name='Bull Head' data-type = 'mutation' data-location='eis.expandedmutations'><b>Bull Head</b></a>"
     },
     {
       "range":{
@@ -41,7 +41,7 @@
         "Slaanesh" : [16, 25],
         "Tzeentch" : [31 ,40]
       },
-      "beast": "<a class = 'item-lookup' data-name='Dog Head' data-type = 'mutation' data-location='ITEM-LOCATION'><b>Dog Head</b></a>"
+      "beast": "<a class = 'item-lookup' data-name='Dog Head' data-type = 'mutation' data-location='eis.expandedmutations'><b>Dog Head</b></a>"
     },
     {
       "range":{
@@ -51,7 +51,7 @@
         "Slaanesh" : [26, 35],
         "Tzeentch" : [41 ,50]
       },
-      "beast": "<a class = 'item-lookup' data-name='Eagle Head' data-type = 'mutation' data-location='ITEM-LOCATION'><b>Eagle Head</b></a>"
+      "beast": "<a class = 'item-lookup' data-name='Eagle Head' data-type = 'mutation' data-location='eis.expandedmutations'><b>Eagle Head</b></a>"
     },
     {
       "range":{
@@ -61,7 +61,7 @@
         "Slaanesh" : [],
         "Tzeentch" : [51 ,60]
       },
-      "beast": "<a class = 'item-lookup' data-name='Rat Head' data-type = 'mutation' data-location='ITEM-LOCATION'><b>Rat Head</b></a>"
+      "beast": "<a class = 'item-lookup' data-name='Rat Head' data-type = 'mutation' data-location='eis.expandedmutations'><b>Rat Head</b></a>"
     },
     {
       "range":{
@@ -71,7 +71,7 @@
         "Slaanesh" : [],
         "Tzeentch" : [61 ,70]
       },
-      "beast": "<a class = 'item-lookup' data-name='Giant Spider Head' data-type = 'mutation' data-location='ITEM-LOCATION'><b>Giant Spider Head</b></a>"
+      "beast": "<a class = 'item-lookup' data-name='Giant Spider Head' data-type = 'mutation' data-location='eis.expandedmutations'><b>Giant Spider Head</b></a>"
     },
     {
       "range":{
@@ -81,7 +81,7 @@
         "Slaanesh" : [36, 75],
         "Tzeentch" : [71 ,80]
       },
-      "beast": "<a class = 'item-lookup' data-name='Goat Head' data-type = 'mutation' data-location='ITEM-LOCATION'><b>Goat Head</b></a>"
+      "beast": "<a class = 'item-lookup' data-name='Goat Head' data-type = 'mutation' data-location='eis.expandedmutations'><b>Goat Head</b></a>"
     },
     {
       "range":{
@@ -91,7 +91,7 @@
         "Slaanesh" : [76, 80],
         "Tzeentch" : [81 ,90]
       },
-      "beast": "<a class = 'item-lookup' data-name='Wolf Head' data-type = 'mutation' data-location='ITEM-LOCATION'><b>Wolf Head</b></a>"
+      "beast": "<a class = 'item-lookup' data-name='Wolf Head' data-type = 'mutation' data-location='eis.expandedmutations'><b>Wolf Head</b></a>"
     },
     {
       "range":{
@@ -101,7 +101,7 @@
         "Slaanesh" : [81, 100],
         "Tzeentch" : [91 ,100]
       },
-      "beast": "<a class = 'item-lookup' data-name='Snake Head' data-type = 'mutation' data-location='ITEM-LOCATION'><b>Snake Head</b></a>"
+      "beast": "<a class = 'item-lookup' data-name='Snake Head' data-type = 'mutation' data-location='eis.expandedmutations'><b>Snake Head</b></a>"
     }
 ]
 }
