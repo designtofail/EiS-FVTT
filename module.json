@@ -6,7 +6,8 @@
   "author": "",
   "systems": [ "wfrp4e" ],
   "scripts": [
-    "./script.js"
+    "./script.js",
+    "./dhar.js"
   ],
   "styles": [
     "./styles.css"
