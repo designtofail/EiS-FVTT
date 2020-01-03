@@ -11,7 +11,7 @@
   "rows": [
     {
       "range": {
-        "Undivided": [1],
+        "Undivided": [1,1],
         "Khorne": [],
         "Nurgle": [1, 2],
         "Slaanesh": [1, 3],
