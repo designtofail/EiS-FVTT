@@ -2,8 +2,8 @@
   "name": "eis",
   "title": "Enemy in Shadows",
   "description": "Enemy in Shadows",
-  "version": 0.1,
-  "author": "",
+  "version": 0.7,
+  "author": "hrafnagud314, Moo Man",
   "systems": [ "wfrp4e" ],
   "scripts": [
     "./script.js",
@@ -18,6 +18,30 @@
       "label": "Expanded Mutations",
       "path": "packs/expandedmutations.db",
       "entity": "Item",
+      "module": "eis",
+      "package": "eis"
+    },
+    {
+      "name": "eisspells",
+      "label": "EiS Spells",
+      "path": "packs/eisspells.db",
+      "entity": "Item",
+      "module": "eis",
+      "package": "eis"
+    },
+    {
+      "name": "eisitems",
+      "label": "EiS Items",
+      "path": "packs/eisitems.db",
+      "entity": "Item",
+      "module": "eis",
+      "package": "eis"
+    },
+    {
+      "name": "eisactors",
+      "label": "EiS Actors",
+      "path": "packs/eisactors.db",
+      "entity": "Actor",
       "module": "eis",
       "package": "eis"
     }

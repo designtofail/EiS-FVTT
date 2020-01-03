@@ -17,3 +17,5 @@ WFRP4E.difficultyModifiers["impossible"] = -50
 WFRP4E.difficultyLabels["futile"] = "Futile (-40)"
 
 WFRP4E.difficultyLabels["impossible"] = "Impossible (-50)"
+
+WFRP4E.loreEffect["tzeentch"] = "Targets of Spells from the Lore of Tzeentch are riven by the transformative magic of Chaos. Targets affected by a Spell from the Lore of Tzeentch must pass a Challenging (+0) Endurance Test, or gain +1 Corruption Point. Should they pass their Test, they instead gain +1 Fortune Point, which can be used as normal. Such are the whims of Tzeentch."
