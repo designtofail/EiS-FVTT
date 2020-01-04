@@ -96,7 +96,7 @@
     {
       "range":{
         "Undivided" : [91, 100],
-        "Khorne" : [100],
+        "Khorne" : [100, 100],
         "Nurgle" : [96, 100],
         "Slaanesh" : [81, 100],
         "Tzeentch" : [91 ,100]

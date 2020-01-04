@@ -37,17 +37,17 @@
     {
       "range": {
         "Undivided": [
-          4
+          4,4
         ],
         "Khorne": [
           5,
           8
         ],
         "Nurgle": [
-          4
+          4,4
         ],
         "Slaanesh": [
-          6
+          6,6
         ],
         "Tzeentch": [
           8,
@@ -63,11 +63,11 @@
           6
         ],
         "Khorne": [
-          9
+          9,9
         ],
         "Nurgle": [],
         "Slaanesh": [
-          7
+          7,7
         ],
         "Tzeentch": [
           10,
@@ -94,23 +94,19 @@
           8,
           10
         ],
-        "Tzeentch": [
-          13
-        ]
+        "Tzeentch": [13, 13]
       },
       "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Beast Head</a></b>"
     },
     {
       "range": {
-        "Undivided": [
-          11
-        ],
+        "Undivided": [11, 11],
         "Khorne": [
           16,
           19
         ],
         "Nurgle": [
-          8
+          8,8
         ],
         "Slaanesh": [
           11,
@@ -130,14 +126,14 @@
           13
         ],
         "Khorne": [
-          20
+          20,20
         ],
         "Nurgle": [
           9,
           10
         ],
         "Slaanesh": [
-          13
+          13,13
         ],
         "Tzeentch": [
           14,
@@ -154,7 +150,7 @@
         ],
         "Khorne": [],
         "Nurgle": [
-          11
+          11,11
         ],
         "Slaanesh": [],
         "Tzeentch": [
@@ -167,11 +163,11 @@
     {
       "range": {
         "Undivided": [
-          16
+          16,16
         ],
         "Khorne": [],
         "Nurgle": [
-          12
+          12,12
         ],
         "Slaanesh": [],
         "Tzeentch": [
@@ -184,21 +180,21 @@
     {
       "range": {
         "Undivided": [
-          17
+          17,17
         ],
         "Khorne": [
           21,
           22
         ],
         "Nurgle": [
-          13
+          13,13
         ],
         "Slaanesh": [
           14,
           15
         ],
         "Tzeentch": [
-          22
+          22,22
         ]
       },
       "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Breathe Fire</a></b>"
@@ -210,7 +206,7 @@
           19
         ],
         "Khorne": [
-          23
+          23,23
         ],
         "Nurgle": [
           14,
@@ -218,7 +214,7 @@
         ],
         "Slaanesh": [],
         "Tzeentch": [
-          23
+          23,23
         ]
       },
       "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Bulging Eyes</a></b>"
@@ -226,7 +222,7 @@
     {
       "range": {
         "Undivided": [
-          20
+          20,20
         ],
         "Khorne": [
           24,
@@ -235,7 +231,7 @@
         "Nurgle": [],
         "Slaanesh": [],
         "Tzeentch": [
-          24
+          24,24
         ]
       },
       "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Burning Skin</a></b>"
@@ -293,7 +289,7 @@
     {
       "range": {
         "Undivided": [
-          25
+          25,25
         ],
         "Khorne": [],
         "Nurgle": [
@@ -308,7 +304,7 @@
     {
       "range": {
         "Undivided": [
-          26
+          26,26
         ],
         "Khorne": [],
         "Nurgle": [
@@ -330,7 +326,7 @@
           28
         ],
         "Khorne": [
-          32
+          32,32
         ],
         "Nurgle": [
           30,
@@ -358,7 +354,7 @@
           35
         ],
         "Nurgle": [
-          33
+          33,33
         ],
         "Slaanesh": [
           25,
@@ -374,10 +370,10 @@
     {
       "range": {
         "Undivided": [
-          31
+          31,31
         ],
         "Khorne": [
-          36
+          36,36
         ],
         "Nurgle": [],
         "Slaanesh": [
@@ -416,7 +412,7 @@
     {
       "range": {
         "Undivided": [
-          34
+          34,34
         ],
         "Khorne": [
           37,
@@ -427,10 +423,10 @@
           37
         ],
         "Slaanesh": [
-          33
+          33,33
         ],
         "Tzeentch": [
-          37
+          37,37
         ]
       },
       "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Emaciated</a></b>"
@@ -438,7 +434,7 @@
     {
       "range": {
         "Undivided": [
-          35
+          35,35
         ],
         "Khorne": [],
         "Nurgle": [
@@ -459,7 +455,7 @@
     {
       "range": {
         "Undivided": [
-          36
+          36,36
         ],
         "Khorne": [
           40,
@@ -467,7 +463,7 @@
         ],
         "Nurgle": [],
         "Slaanesh": [
-          37
+          37,37
         ],
         "Tzeentch": [
           40,
@@ -479,14 +475,14 @@
     {
       "range": {
         "Undivided": [
-          37
+          37,37
         ],
         "Khorne": [
           42,
           43
         ],
         "Nurgle": [
-          40
+          40,40
         ],
         "Slaanesh": [
           38,
@@ -511,10 +507,10 @@
           43
         ],
         "Slaanesh": [
-          41
+          41,41
         ],
         "Tzeentch": [
-          45
+          45,45
         ]
       },
       "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Eyestalks</a></b>"
@@ -522,7 +518,7 @@
     {
       "range": {
         "Undivided": [
-          40
+          40,40
         ],
         "Khorne": [],
         "Nurgle": [
@@ -553,7 +549,7 @@
         ],
         "Slaanesh": [],
         "Tzeentch": [
-          48
+          48,48
         ]
       },
       "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Foul Odour</a></b>"
@@ -561,20 +557,20 @@
     {
       "range": {
         "Undivided": [
-          44
+          44,44
         ],
         "Khorne": [
-          44
+          44,44
         ],
         "Nurgle": [
-          52
+          52,52
         ],
         "Slaanesh": [
           45,
           46
         ],
         "Tzeentch": [
-          49
+          49,49
         ]
       },
       "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Furred Skin</a></b>"
@@ -595,7 +591,7 @@
           48
         ],
         "Tzeentch": [
-          50
+          50,50
         ]
       },
       "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Gills</a></b>"
@@ -603,7 +599,7 @@
     {
       "range": {
         "Undivided": [
-          48
+          48,48
         ],
         "Khorne": [
           45,
@@ -615,7 +611,7 @@
           48
         ],
         "Tzeentch": [
-          50
+          50,50
         ]
       },
       "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Glowing Skin</a></b>"
@@ -623,7 +619,7 @@
     {
       "range": {
         "Undivided": [
-          49
+          49,49
         ],
         "Khorne": [
           48,
@@ -635,7 +631,7 @@
         ],
         "Slaanesh": [],
         "Tzeentch": [
-          53
+          53,53
         ]
       },
       "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Headless</a></b>"
@@ -647,17 +643,17 @@
           51
         ],
         "Khorne": [
-          51
+          51,51
         ],
         "Nurgle": [
           57,
           58
         ],
         "Slaanesh": [
-          51
+          51,51
         ],
         "Tzeentch": [
-          54
+          54,54
         ]
       },
       "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Hopper</a></b>"
@@ -665,7 +661,7 @@
     {
       "range": {
         "Undivided": [
-          52
+          52,52
         ],
         "Khorne": [],
         "Nurgle": [],
@@ -674,7 +670,7 @@
           59
         ],
         "Tzeentch": [
-          55
+          55,55
         ]
       },
       "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Inhuman Beauty</a></b>"
@@ -695,7 +691,7 @@
           59
         ],
         "Tzeentch": [
-          56
+          56,56
         ]
       },
       "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Iron Skin</a></b>"
@@ -703,14 +699,14 @@
     {
       "range": {
         "Undivided": [
-          55
+          55,55
         ],
         "Khorne": [
           56,
           58
         ],
         "Nurgle": [
-          59
+          59,59
         ],
         "Slaanesh": [
           60,
@@ -727,7 +723,7 @@
           57
         ],
         "Khorne": [
-          59
+          59,59
         ],
         "Nurgle": [],
         "Slaanesh": [
@@ -748,11 +744,11 @@
           59
         ],
         "Khorne": [
-          60
+          60,60
         ],
         "Nurgle": [],
         "Slaanesh": [
-          64
+          64,64
         ],
         "Tzeentch": [
           59,
@@ -770,7 +766,7 @@
         "Khorne": [],
         "Nurgle": [],
         "Slaanesh": [
-          65
+          65,65
         ],
         "Tzeentch": [
           61,
@@ -782,7 +778,7 @@
     {
       "range": {
         "Undivided": [
-          62
+          62,62
         ],
         "Khorne": [
           61,
@@ -835,17 +831,17 @@
           66
         ],
         "Khorne": [
-          66
+          66,66
         ],
         "Nurgle": [
           64,
           66
         ],
         "Slaanesh": [
-          70
+          70,70
         ],
         "Tzeentch": [
-          67
+          67,67
         ]
       },
       "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>One Eye</a></b>"
@@ -853,7 +849,7 @@
     {
       "range": {
         "Undivided": [
-          67
+          67,67
         ],
         "Khorne": [],
         "Nurgle": [],
@@ -875,14 +871,14 @@
           69
         ],
         "Khorne": [
-          67
+          67,67
         ],
         "Nurgle": [
           67,
           68
         ],
         "Slaanesh": [
-          73
+          73,73
         ],
         "Tzeentch": []
       },
@@ -895,13 +891,13 @@
           71
         ],
         "Khorne": [
-          68
+          68,68
         ],
         "Nurgle": [
-          69
+          69,69
         ],
         "Slaanesh": [
-          74
+          74,74
         ],
         "Tzeentch": []
       },
@@ -910,10 +906,10 @@
     {
       "range": {
         "Undivided": [
-          72
+          72,72
         ],
         "Khorne": [
-          69
+          69,69
         ],
         "Nurgle": [
           70,
@@ -930,7 +926,7 @@
     {
       "range": {
         "Undivided": [
-          73
+          73,73
         ],
         "Khorne": [],
         "Nurgle": [
@@ -948,9 +944,7 @@
           74,
           75
         ],
-        "Khorne": [
-          70
-        ],
+        "Khorne": [70, 70],
         "Nurgle": [],
         "Slaanesh": [
           75,
@@ -969,18 +963,10 @@
           76,
           77
         ],
-        "Khorne": [
-          71
-        ],
-        "Nurgle": [
-          79
-        ],
-        "Slaanesh": [
-          78
-        ],
-        "Tzeentch": [
-          77
-        ]
+        "Khorne": [71, 71],
+        "Nurgle": [79, 79],
+        "Slaanesh": [78, 78],
+        "Tzeentch": [77, 77]
       },
       "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Short Legs</a></b>"
     },
@@ -1002,9 +988,7 @@
     },
     {
       "range": {
-        "Undivided": [
-          80
-        ],
+        "Undivided": [80, 80],
         "Khorne": [
           76,
           78
@@ -1024,9 +1008,7 @@
           81,
           82
         ],
-        "Khorne": [
-          79
-        ],
+        "Khorne": [79, 79],
         "Nurgle": [
           80,
           81
@@ -1069,9 +1051,7 @@
     },
     {
       "range": {
-        "Undivided": [
-          85
-        ],
+        "Undivided": [85, 85],
         "Khorne": [
           82,
           84
@@ -1081,9 +1061,7 @@
           86,
           87
         ],
-        "Tzeentch": [
-          83
-        ]
+        "Tzeentch": [83, 83]
       },
       "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Thorny Scales</a></b>"
     },
@@ -1093,9 +1071,7 @@
           86,
           87
         ],
-        "Khorne": [
-          85
-        ],
+        "Khorne": [85, 85],
         "Nurgle": [
           85,
           87
@@ -1104,28 +1080,20 @@
           88,
           90
         ],
-        "Tzeentch": [
-          84
-        ]
+        "Tzeentch": [84, 84]
       },
       "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Three Eyes</a></b>"
     },
     {
       "range": {
-        "Undivided": [
-          88
-        ],
-        "Khorne": [
-          86
-        ],
+        "Undivided": [88, 88],
+        "Khorne": [86, 86],
         "Nurgle": [
           88,
           89
         ],
         "Slaanesh": [],
-        "Tzeentch": [
-          85
-        ]
+        "Tzeentch": [85, 85]
       },
       "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Transparent Skin</a></b>"
     },
@@ -1139,9 +1107,7 @@
           87,
           88
         ],
-        "Nurgle": [
-          90
-        ],
+        "Nurgle": [90, 90],
         "Slaanesh": [
           91,
           92
@@ -1155,9 +1121,7 @@
     },
     {
       "range": {
-        "Undivided": [
-          91
-        ],
+        "Undivided": [91, 91],
         "Khorne": [
           89,
           92
@@ -1167,9 +1131,7 @@
           92
         ],
         "Slaanesh": [],
-        "Tzeentch": [
-          88
-        ]
+        "Tzeentch": [88, 88]
       },
       "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Uneven Horns</a></b>"
     },
@@ -1200,9 +1162,7 @@
     },
     {
       "range": {
-        "Undivided": [
-          95
-        ],
+        "Undivided": [95, 95],
         "Khorne": [
           95,
           96
@@ -1225,30 +1185,20 @@
           96,
           97
         ],
-        "Khorne": [
-          97
-        ],
+        "Khorne": [97, 97],
         "Nurgle": [
           95,
           96
         ],
-        "Slaanesh": [
-          98
-        ],
-        "Tzeentch": [
-          98
-        ]
+        "Slaanesh": [98, 98],
+        "Tzeentch": [98, 98]
       },
       "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Webbed Feet</a></b>"
     },
     {
       "range": {
-        "Undivided": [
-          98
-        ],
-        "Khorne": [
-          98
-        ],
+        "Undivided": [98, 98],
+        "Khorne": [98, 98],
         "Nurgle": [
           97,
           100
@@ -1260,28 +1210,18 @@
     },
     {
       "range": {
-        "Undivided": [
-          99
-        ],
-        "Khorne": [
-          99
-        ],
+        "Undivided": [99, 99],
+        "Khorne": [99, 99],
         "Nurgle": [],
         "Slaanesh": [],
-        "Tzeentch": [
-          97
-        ]
+        "Tzeentch": [97, 97]
       },
       "name": "<b><a class = 'item-lookup' data-type='mutation' data-location='eis.expandedmutations'>Whiskered Snout</a></b>"
     },
     {
       "range": {
-        "Undivided": [
-          100
-        ],
-        "Khorne": [
-          100
-        ],
+        "Undivided": [100, 100],
+        "Khorne": [100, 100],
         "Nurgle": [],
         "Slaanesh": [
           99,
