@@ -2,7 +2,7 @@
   "name": "eis",
   "title": "Enemy in Shadows",
   "description": "Enemy in Shadows",
-  "version": 0.71,
+  "version": 0.72,
   "author": "hrafnagud314, Moo Man",
   "systems": [ "wfrp4e" ],
   "scripts": [
