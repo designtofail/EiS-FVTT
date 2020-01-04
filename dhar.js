@@ -149,7 +149,7 @@ DiceWFRP.rollChannellTest = (testData, actor) => {
     let dhar = false;
     if (WFRP4E.magicWind[spell.data.lore.value] == "Dhar")
         dhar = true;
-    if (testData.extra.channellSkill && testData.extra.channellSkill.includes("Dhar"))
+    if (testData.extra.channellSkill && testData.extra.channellSkill.name.includes("Dhar"))
         dhar = true;
         
      let SL = testResults.SL;
