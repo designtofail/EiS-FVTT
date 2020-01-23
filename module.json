@@ -2,7 +2,7 @@
   "name": "eis",
   "title": "Enemy in Shadows",
   "description": "Enemy in Shadows",
-  "version": 0.72,
+  "version": 0.73,
   "author": "hrafnagud314, Moo Man",
   "systems": [ "wfrp4e" ],
   "scripts": [
@@ -19,7 +19,8 @@
       "path": "packs/expandedmutations.db",
       "entity": "Item",
       "module": "eis",
-      "package": "eis"
+      "package": "eis",
+      "tag" : "mutation"
     },
     {
       "name": "eisspells",
@@ -27,7 +28,8 @@
       "path": "packs/eisspells.db",
       "entity": "Item",
       "module": "eis",
-      "package": "eis"
+      "package": "eis",
+      "tag" : "spell"
     },
     {
       "name": "eisitems",
@@ -43,11 +45,12 @@
       "path": "packs/eisactors.db",
       "entity": "Actor",
       "module": "eis",
-      "package": "eis"
+      "package": "eis",
+      "tag" : "actor"
     }
   ],
   "languages": [ "en" ],
-  "minimumCoreVersion": "0.4.2",
+  "minimumCoreVersion": "0.4.4",
   "manifest": "https://raw.githubusercontent.com/moo-man/EiS-FVTT/master/module.json",
   "download": "https://github.com/moo-man/EiS-FVTT/archive/master.zip"
 }
