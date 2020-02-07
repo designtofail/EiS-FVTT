@@ -1,0 +1,23 @@
+{
+  "die": "1d4",
+  "hide": true,
+  "name": "Animal Mishaps",
+  "rows": [
+    {
+      "description": "A torn saddle strap, a shredded harness or a lost stirrup — some part of your mount’s tack has been damaged, making travel more difficult. The rider must make a Difficult (–10) Ride Test or fall off (a distance of 2 yards). Until the tack is repaired, all future Ride Tests suffer a –20 penalty.",
+      "range": [1,1]
+    },
+    {
+      "description": "The animal loses a shoe. The rider must make a Difficult (–10) Ride Test or fall off (a distance of 2 yards). The animal must move at a Walk until the shoe has been replaced by a farrier. Forcing the animal to move faster cause it to become Lame.",
+      "range": [2,2]
+    },
+    {
+      "description": "The animal cannot move faster than half its Walk speed, cannot be ridden or carry packs, and cannot pull a load. Attempting to bring the animal any further on a journey using the Travel rules (page 27) increases the journey length by 1 Stage. Any attempt to do any of these things costs the animal 1d10 Wounds, regardless of Toughness Bonus. On a roll of 8+, the animal must make a Challenging (+0) Endurance Test or suffer a Critical Wound to its legs.",
+      "range": [3,3]
+    },
+    {
+      "description": "The animal suffers a Broken Bone (Major) on its leg, and becomes immobile. If the broken bone ever heals, the animal’s Movement is reduced by half. Usually, when a horse or similar breaks a leg, there is little hope of it surviving.",
+      "range": [4,4]
+    }
+  ]
+}

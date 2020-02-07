@@ -2,12 +2,13 @@
   "name": "eis",
   "title": "Enemy in Shadows",
   "description": "Enemy in Shadows",
-  "version": 0.74,
+  "version": 0.8,
   "author": "hrafnagud314, Moo Man",
   "systems": [ "wfrp4e" ],
   "scripts": [
     "./script.js",
-    "./dhar.js"
+    "./dhar.js",
+	"./init.js"
   ],
   "styles": [
     "./styles.css"
