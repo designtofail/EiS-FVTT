@@ -88,7 +88,12 @@ Hooks.on("ready", () => {
     {
       testResults.description = game.i18n.localize("ROLL.CastingSuccess")
       let overcasts = Math.floor(slOver / 2);
+
+      if (dhar) 
+        overcasts = slOver
+
       testResults.overcasts = overcasts;
+
 
       if (testResults.roll % 11 == 0)
       {
