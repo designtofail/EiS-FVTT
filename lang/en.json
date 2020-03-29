@@ -1,5 +1,5 @@
 {
-    "EiS.MinorDhar" : "All living souls within Willpower yards suffer a Minor Corrupting Influence and a Minor Miscast; a single result applies to all those within the area affected.",
-    "EiS.MajorDhar" : "All living souls within Willpower yards suffer a Major Corrupting Influence and a Major Miscast; a single result applies to all those within the area affected.",
+    "EiS.MinorDhar" : "All living souls within Willpower yards suffer a Minor Corrupting Influence and a <a class ='table-click fumble-roll' data-table = 'minormis'><i class='fas fa-list'></i> Minor Miscast</a>; a single result applies to all those within the area affected.",
+    "EiS.MajorDhar" : "All living souls within Willpower yards suffer a Major Corrupting Influence and a <a class ='table-click fumble-roll' data-table = 'majormis'><i class='fas fa-list'></i> Major Miscast<a>; a single result applies to all those within the area affected.",
     "EiS.DoubleRolled" : "Counts as a minor corrupting influence"
 }

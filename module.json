@@ -2,7 +2,7 @@
   "name": "eis",
   "title": "Enemy in Shadows",
   "description": "Enemy in Shadows",
-  "version": 0.86,
+  "version": 0.9,
   "author": "hrafnagud314, Moo Man",
   "systems": [ "wfrp4e" ],
   "scripts": [
@@ -57,7 +57,7 @@
       "path": "lang/en.json"
     }
   ],
-  "minimumCoreVersion": "0.5.1",
+  "minimumCoreVersion": "0.5.2",
   "manifest": "https://raw.githubusercontent.com/moo-man/EiS-FVTT/master/module.json",
   "download": "https://github.com/moo-man/EiS-FVTT/archive/master.zip"
 }
