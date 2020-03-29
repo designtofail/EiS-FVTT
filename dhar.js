@@ -3,15 +3,15 @@ Hooks.on("wfrp4e:rollCastTest", testResults => {
   {
     if (testResults.roll == 88)
     {
-      testResults.other = testResults.other ? testResults.other + "<br>" + game.i18n.localize("EiS.MajorDhar") : game.i18n.localize("EiS.MajorDhar")
+      testResults.other.push(game.i18n.localize("EiS.MajorDhar"))
     }
     else if (testResults.roll.toString().includes("8"))
  		{
-       testResults.other = testResults.other ? testResults.other + "<br>" + game.i18n.localize("EiS.MinorDhar") : game.i18n.localize("EiS.MinorDhar")
+       testResults.other.push(game.i18n.localize("EiS.MinorDhar"))
     }
     if (testResults.roll % 11 == 0)
 		{
-			testResults.other = testResults.other ? testResults.other + "<br>" + game.i18n.localize("EiS.DoubleRolled") : game.i18n.localize("EiS.DoubleRolled")
+			testResults.other.push(game.i18n.localize("EiS.DoubleRolled"))
 		}
   } 
 })
@@ -21,15 +21,15 @@ Hooks.on("wfrp4e:rollChannelTest", testResults => {
   {
     if (testResults.roll == 88)
     {
-      testResults.other = testResults.other ? testResults.other + "<br>" + game.i18n.localize("EiS.MajorDhar") : game.i18n.localize("EiS.MajorDhar")
+      testResults.other.push(game.i18n.localize("EiS.MajorDhar"))
     }
     else if (testResults.roll.toString().includes("8"))
  		{
-       testResults.other = testResults.other ? testResults.other + "<br>" + game.i18n.localize("EiS.MinorDhar") : game.i18n.localize("EiS.MinorDhar")
+       testResults.other.push(game.i18n.localize("EiS.MinorDhar"))
     }
     if (testResults.roll % 11 == 0)
 		{
-			testResults.other = testResults.other ? testResults.other + "<br>" + game.i18n.localize("EiS.DoubleRolled") : game.i18n.localize("EiS.DoubleRolled")
+			testResults.other.push(game.i18n.localize("EiS.DoubleRolled"))
 		}
   } 
 })
